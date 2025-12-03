@@ -95,6 +95,16 @@ For each batch in the incoming stream:
 
 ---
 
+## 🗂️ Files
+
+- aRafey_DL_Project_Complete.pdf -- The IEEE-standard report of my project.
+- aRafey_DL_Project_Notebook.ipynb -- The Jupyter Notebook of my project. Contains in-depth explanations and commentation for stand-alone understanding.
+- aRafey_DL_Project_Presentation.pdf -- The presentation of my project. I recommend viewing it on Gamma though! (https://gamma.app/docs/Memory-Robust-Few-Shot-Test-Time-Adaptation-for-Small-Vision-Mode-vzukrurqbinyq7a?mode=doc)
+- aRafey_DL_Project_Flowchart.png -- The flowchart of the pipeline of my project.
+- GPTZero AI Scan - aRafey_DL_Project_Complete.pdf.pdf -- The GPTZero AI and Plagiarism report of the report of my project.
+
+---
+
 ## ☎️  Contact
 
 **Questions? Email them at:**  
